@@ -11,7 +11,6 @@ pip install Django
 ```bash
 git clone https://github.com/AbhiramAtmuri/Lab5
 cd Lab5
-cd hello
 ```
 - Migrate any changes
 
